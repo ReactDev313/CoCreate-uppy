@@ -1,19 +1,19 @@
-# Contributing to CoCreate-clone
+# Contributing to CoCreate-uppy
 
-This project is work of [many contributors](https://github.com/CoCreate-app/CoCreate-clone/graphs/contributors).
-You're encouraged to submit [pull requests](https://github.com/CoCreate-app/CoCreate-clone/pulls),
-[propose features and discuss issues](https://github.com/CoCreate-app/CoCreate-clone/issues).
+This project is work of [many contributors](https://github.com/CoCreate-app/CoCreate-uppy/graphs/contributors).
+You're encouraged to submit [pull requests](https://github.com/CoCreate-app/CoCreate-uppy/pulls),
+[propose features and discuss issues](https://github.com/CoCreate-app/CoCreate-uppy/issues).
 
 In the examples below, substitute your Github username for `contributor` in URLs.
 
 ## Fork the Project
 
-Fork the [project on Github](https://github.com/CoCreate-app/CoCreate-clone) and check out your copy.
+Fork the [project on Github](https://github.com/CoCreate-app/CoCreate-uppy) and check out your copy.
 
 ```
-git clone https://github.com/contributor/CoCreate-clone.git
-cd CoCreate-clone
-git remote add upstream https://github.com/CoCreate-app/CoCreate-clone.git
+git uppy https://github.com/contributor/CoCreate-uppy.git
+cd CoCreate-uppy
+git remote add upstream https://github.com/CoCreate-app/CoCreate-uppy.git
 ```
 
 ## Create a Topic Branch
@@ -72,7 +72,7 @@ git push origin my-feature-branch
 
 ## Make a Pull Request
 
-Go to [https://github.com/CoCreate-app/CoCreate-clone](https://github.com/CoCreate-app/CoCreate-clone) and select your feature branch.
+Go to [https://github.com/CoCreate-app/CoCreate-uppy](https://github.com/CoCreate-app/CoCreate-uppy) and select your feature branch.
 Click the 'Pull Request' button and fill out the form. Pull requests are usually reviewed within a few days.
 
 ## Rebase
