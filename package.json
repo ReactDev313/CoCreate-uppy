@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/CoCreate-app/CoCreate-boilerplate/issues"
   },
-  "homepage": "https://github.com/CoCreate-app/CoCreate-boilerplate#readme"
+  "homepage": "https://github.com/CoCreate-app/CoCreate-boilerplate#readme",
+  "dependencies": {
+    "@uppy/aws-s3": "^1.7.6",
+    "@uppy/core": "^1.16.0",
+    "@uppy/dashboard": "^1.16.0"
+  }
 }
