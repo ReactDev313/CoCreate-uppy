@@ -22,7 +22,7 @@ module.exports = {
             document_id: "",
             data:{
                 collection: "files",
-                document_id: "",
+                document_id: "6029b6a3e979fb17407e25dc",
                 name: "html",
                 domains: ["cocreate.app", "server.cocreate.app", "ws.cocreate.app"],
                 route: "/docs/uppy",
