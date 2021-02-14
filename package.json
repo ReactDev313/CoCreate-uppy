@@ -2,7 +2,24 @@
   "name": "@cocreate/uppy",
   "version": "1.0.0",
   "description": "A simple uppy component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
-  "keywords": ["uppy","cocreate","low-code-framework","no-code-framework","cocreatejs","cocreatejs-component","cocreate-framework","no-code","low-code","collaborative-framework","realtime","realtime-framework","collaboration","shared-editing","html5-framework","javascript-framework"],
+  "keywords": [
+    "uppy",
+    "cocreate",
+    "low-code-framework",
+    "no-code-framework",
+    "cocreatejs",
+    "cocreatejs-component",
+    "cocreate-framework",
+    "no-code",
+    "low-code",
+    "collaborative-framework",
+    "realtime",
+    "realtime-framework",
+    "collaboration",
+    "shared-editing",
+    "html5-framework",
+    "javascript-framework"
+  ],
   "publishConfig": {
     "access": "public"
   },
@@ -37,6 +54,5 @@
     "@uppy/core": "^1.16.0",
     "@uppy/dashboard": "^1.16.0",
     "@cocreate/docs": "^1.0.3"
-
   }
 }
