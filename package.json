@@ -52,13 +52,10 @@
     "html-webpack-plugin": "^4.5.0",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "webpack": "^5.14.0",
-    "webpack-cli": "^4.3.1",
+    "webpack-cli": "^4.5.0",
     "webpack-log": "^3.0.1"
   },
   "dependencies": {
-    "@uppy/aws-s3": "^1.7.6",
-    "@uppy/core": "^1.16.0",
-    "@uppy/dashboard": "^1.16.0",
-    "@cocreate/docs": "^1.0.3"
+    "@cocreate/docs": "^1.0.3",
   }
 }
