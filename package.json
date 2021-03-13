@@ -24,7 +24,7 @@
     "access": "public"
   },
   "scripts": {
-    "start": "npx webpack --config webpack.config.js",
+    "start": "node ./src/index.js",
     "build": "NODE_ENV=production npx webpack --config webpack.config.js",
     "dev": "npx webpack --config webpack.config.js --watch",
     "docs": "node ./node_modules/@cocreate/docs/src/index.js"
