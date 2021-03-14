@@ -2,17 +2,19 @@
 const Uppy = require("@uppy/core");
 const XHRUpload = require("@uppy/xhr-upload");
 const Dashboard = require("@uppy/dashboard");
+const ImageEditor = require("@uppy/image-editor");
 
 // And their styles (for UI plugins)
 // With webpack and `style-loader`, you can require them like this:
 require("@uppy/core/dist/style.css");
 require("@uppy/dashboard/dist/style.css");
-
+require("@uppy/image-editor/dist/style.css");
 const uppy = new Uppy()
   .use(Dashboard, {
     inline: true,
     trigger: "#drag-drop-area",
   })
+  .use(ImageEditor, { target: Dashboard })
   .use(XHRUpload, { endpoint: "https://api2.transloadit.com" });
 
 uppy.on("file-added", (file) => {

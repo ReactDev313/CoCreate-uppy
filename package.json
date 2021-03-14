@@ -64,6 +64,7 @@
     "@cocreate/docs": "^1.0.3",
     "@uppy/core": "^1.16.2",
     "@uppy/dashboard": "^1.17.1",
+    "@uppy/image-editor": "^0.2.3",
     "@uppy/utils": "^2.1.0",
     "@uppy/xhr-upload": "^1.7.1",
     "babel-preset-es2015": "^6.24.1",
